@@ -25,6 +25,9 @@ new String:bronieKrotkie[][] = {
 	"weapon_usp_silencer"
 }
 
+
+
+
 new String: bronieDlugie[][] =  {
 	"weapon_ssg08", 
 	"weapon_mp9", 
